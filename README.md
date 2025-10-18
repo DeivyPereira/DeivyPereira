@@ -73,7 +73,6 @@ I’m **Gregoris Pereira** — a hands-on technical leader with **12+ years** of
 ---
 
 ## Highlighted projects ✨
-> Replace placeholders with your repo URLs / demos when ready
 
 - **SmartFrost** — Cold-chain IoT platform: sensors, dashboards, alerts, remote control.  
 - **Red Wallet / RedNFT** — Cross-platform wallet (iOS, Android, Extension) for Polygon + NFT flows.  
@@ -98,10 +97,18 @@ I’m **Gregoris Pereira** — a hands-on technical leader with **12+ years** of
 
 ---
 
-## Badges — copy & paste
-```md
+## Badges 
 <!-- GitHub Readme Stats -->
-![Gregoris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivyPereira&show_icons=true&theme=dark)
+![Gregoris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivyPereira&show_icons=true&theme=dark&count_private=true)
 
-<!-- Top langs -->
+<!-- Top languages (compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivyPereira&layout=compact&theme=dark)
+
+<!-- Streak / Contribution Graph -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeivyPereira&theme=dark)
+
+<!-- Contribution Heatmap -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DeivyPereira&theme=github)
+
+<!-- Followers (shields.io social) -->
+![Followers](https://img.shields.io/github/followers/DeivyPereira?label=Follow&style=social)
